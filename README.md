@@ -146,6 +146,13 @@ Full field-level definitions (data types, descriptions, examples) are documented
 
 > **Note:** `proc_load_bronze.sql` currently points `BULK INSERT` at a local Windows file path. Update the file paths to match your own environment before running it.
 
+
+About the me
+
+Mohamad Syakirin — Computer Science student (Network & Security) at Universiti Teknologi Malaysia. Huge interest into data engineering, bringing a security-first perspective to data and cloud infrastructure work.
+
+🔗 LinkedIn
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
