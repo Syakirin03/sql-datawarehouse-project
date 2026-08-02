@@ -151,7 +151,7 @@ About the me
 
 Mohamad Syakirin — Computer Science student (Network & Security) at Universiti Teknologi Malaysia. Huge interest into data engineering, bringing a security-first perspective to data and cloud infrastructure work.
 
-🔗 LinkedIn
+🔗 LinkedIn : https://www.linkedin.com/in/mohamad-syakirin
 
 ## License
 
